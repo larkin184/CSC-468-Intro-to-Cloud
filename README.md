@@ -1,1 +1,1 @@
-# CSC-468-Intro-to-Cloud
+# csc468cloud
